@@ -1,10 +1,22 @@
+# Python-Notebook
 
-这是一个Python编程学习笔记本
+本项目为个人Python学习笔记仓库，记录了从基础到进阶的编程知识与实践案例。每个知识点配有Jupyter Notebook，方便代码和注释同步学习。
 
-SHA256:yfYccWcYfMgKypkxhDX6Rj+cPiDpFwH4BMq2xS2HY64 1211763093@qq.com
+## 目录结构
 
+- 01-Python基础：变量、数据类型、流程控制等
+- 02-函数与模块：函数定义、模块、包、作用域等
+- 03-面向对象编程：类与对象、继承与多态等
+- 04-标准库与第三方库：常用库用法示例
+- 05-实用技巧与项目：文件操作、异常处理、小项目等
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC5Z33lypz0LtSsGkE1VXwN4tohcIC466cYGNsWFD6DfiFifGEAus/BabRrXCMucNNWg619ga2BAkRwSy3kF4HDp9uVKSejkippkFjHSYdcGF1NeOJpiKuhmI6aB
-lmGpDHUUEOW74YnWQO/WvaKoVOMSPgs8nn5e1o3r9selwo3BCM0+SJY3RY+W3/7D6j6X5yP/fd6MFi6skItlc0npOT2XxKdHVDlZO4kIJdcXkvyUxbYP05sXutpgRzXqv2l781PIdqHs8pszVXmMIbtsza2GLCxKU
-0w/s0SkMS8NlJm1sYKShMSaSPvtNNOSnqh/UkUNMiUoI0raLwYhiCnr+Uhbt6+i3ndnghNssWujaG1b5c18LngWQLnDzoTXKDc4guzvypgTaQvyeA1Z8VZhpl7P3WMtBXjh/Vama22L2PS7oxyGp1pytVy8X1DDHV
-vEG45OoMjXWE8CWRoLN9dWxJYMsJjFnU29bqRgeCFfS49i6rgaJlpwXzBbHf4CZGtQ+sYykDVlGXmfY0t7sno3UxvUf+TKIQ+2pVwhpbNS/+q0VwgES2M596CelV5daPxz+cvrCyu85FWgUubyt8outokM9LeCvRkWK9PRRIj6oeMeF0Xs396YgAhQ0Cj8BaYDf7Yc+3eg0j4LTkMS4cUaaY/geBUgtYLLF2Dass79Qt5Nw== 1211763093@qq.com
+## 如何运行
+
+1. 克隆项目到本地
+2. 用PyCharm或JupyterLab打开
+3. 安装依赖：`pip install -r requirements.txt`
+4. 运行各章节的`.ipynb`文件
+
+---
+
+持续记录学习过程，欢迎交流与建议！
